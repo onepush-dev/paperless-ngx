@@ -1,6 +1,6 @@
 # Paperless-ngx — scan, OCR, index and archive all your documents. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WzsOmm)
 
 ## Services
 | Service | Source | Notes |
